@@ -1,4 +1,4 @@
-# Virtual-Internship-Fortage
+# Virtual-Internship-Forage
 
 ---> I finished virtual internship through forage website > https://www.theforage.com/
 
